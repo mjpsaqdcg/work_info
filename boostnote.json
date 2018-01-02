@@ -1,0 +1,30 @@
+{
+  "folders": [
+    {
+      "key": "6594901b99e1aaa115fb",
+      "color": "#1278BD",
+      "name": "Default"
+    },
+    {
+      "key": "45ae439defff6f46a769",
+      "color": "#FF8E00",
+      "name": "CN需求"
+    },
+    {
+      "key": "59d36728d7d8e67b8b64",
+      "color": "#FF8E00",
+      "name": "BB需求"
+    },
+    {
+      "key": "a77b981f3a0c50345221",
+      "color": "#B013A4",
+      "name": "产品文档"
+    },
+    {
+      "key": "0d2c3c199ff0fad427f4",
+      "color": "#FF8E00",
+      "name": "工作计划"
+    }
+  ],
+  "version": "1.0"
+}
