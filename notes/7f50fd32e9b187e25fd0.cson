@@ -1,0 +1,24 @@
+createdAt: "2018-01-08T11:39:15.174Z"
+updatedAt: "2018-01-08T12:00:34.401Z"
+type: "MARKDOWN_NOTE"
+folder: "4c2e04fa7d241bd76c5b"
+title: "韩国站需要确认的问题"
+content: '''
+  # 韩国站需要确认的问题
+  
+  1. 韩国信用卡
+  2. aws账号
+  3. 服务器提供，位置放在韩国部署
+  4. 韩国短信服务商
+  5. 国际短信云片账号申请
+  6. 在线客服韩国接口：happytalk、kakao。
+  7. 韩国实名认证接口。
+  8. 韩国银行对公账号。
+  9. 韩国用户可绑定银行列表。
+  10. 韩国邮箱服务商。
+  
+  
+'''
+tags: []
+isStarred: false
+isTrashed: false

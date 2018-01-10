@@ -1,11 +1,6 @@
 {
   "folders": [
     {
-      "key": "6594901b99e1aaa115fb",
-      "color": "#1278BD",
-      "name": "Default"
-    },
-    {
       "key": "45ae439defff6f46a769",
       "color": "#FF8E00",
       "name": "CN需求"
@@ -24,6 +19,16 @@
       "key": "0d2c3c199ff0fad427f4",
       "color": "#FF8E00",
       "name": "工作计划"
+    },
+    {
+      "key": "08db0d252d051d1862c4",
+      "color": "#E10051",
+      "name": "随记"
+    },
+    {
+      "key": "4c2e04fa7d241bd76c5b",
+      "color": "#E10051",
+      "name": "韩国站"
     }
   ],
   "version": "1.0"

@@ -1,0 +1,38 @@
+createdAt: "2018-01-08T09:12:46.519Z"
+updatedAt: "2018-01-08T09:13:15.642Z"
+type: "MARKDOWN_NOTE"
+folder: "45ae439defff6f46a769"
+title: "交易最小成交额更改"
+content: '''
+  # 交易最小成交额更改
+  
+  
+  BTC  :  0.00005  
+  BT1 : 0.0001     
+  BCH  : 0.0002
+  ETH  : 0.0005
+  BT2 : 0.001
+  BTG : 0.002
+  NEO : 0.05
+  QTUM : 0.1
+  GAS : 0.1
+  BCD : 0.1
+  ETC : 0.1
+  OMG : 0.1
+  HSR : 0.5
+  MCO : 0.5
+  WTC : 0.5
+  KNC : 1
+  ADA : 5
+  INK : 5
+  TSL : 25
+  TRON : 25
+  ENT : 25 
+  
+  
+  2018.1.8更改
+  
+'''
+tags: []
+isStarred: false
+isTrashed: false

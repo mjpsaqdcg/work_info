@@ -1,0 +1,54 @@
+createdAt: "2018-01-03T03:22:39.180Z"
+updatedAt: "2018-01-03T03:23:29.360Z"
+type: "MARKDOWN_NOTE"
+folder: "45ae439defff6f46a769"
+title: "充值银行列表"
+content: '''
+   # 充值银行列表
+   
+   ; _('新韩银行')
+  0.enable = 0
+  0.name = "新韩银行"
+  0.holder = "주식회사 코인네스트"
+  0.account = "140-011-772800"
+  
+  ; _('农协银行')
+  1.enable = 1
+  1.name = "农协银行"
+  1.holder = "주식회사 코인네스트"
+  1.account = "301-0217-9003-91"
+  
+  2.enable = 1
+  ; _('新韩银行')
+  2.name = "新韩银行"
+  2.holder = "주식회사 코인네스트"
+  2.account = "140-011-941856"
+  
+  3.enable = 1
+  ; _('企業銀行')
+  3.name = "企業銀行"
+  ;3.holder = "주식회사 코인네스트"
+  3.holder = "(주)코인네스트"
+  3.account = "043-115721-01-016"
+  
+  4.enable = 1
+  ; _('友利银行')
+  4.name = "友利银行"
+  4.holder = "주식회사 코인네스트"
+  4.account = "1005-403-299885"
+  
+  5.enable = 1
+  ; _('友利银行')
+  5.name = "友利银行"
+  5.holder = "주식회사 코인네스트"
+  5.account = "1005-903-326407"
+  
+  
+  # 深度对接交易所
+  
+  coinone
+  bithumb
+'''
+tags: []
+isStarred: false
+isTrashed: false
